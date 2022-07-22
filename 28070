@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>EduCloud | Page Of Success</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="img/check_circle_FILL0_wght400_GRAD0_opsz48 (1).png">
+</head>
+
+<body>
+    <h9 id="topt"></h9>
+    <center><iframe class="ifr6" width="727" height="409" src="https://www.youtube.com/embed/FZc-Y9gqjHI" title="How does alcohol cause hangovers? - Judy Grisel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe></center>
+    <div class="all">
+    <div class="container">
+
+    <ul>
+        <button class="checkbtn"><img class="check" src="img/search_FILL0_wght400_GRAD0_opsz48 (1).png"></button>
+        
+        <li class="li1">EduCloud</li>
+        <li class="l13">FeedBack</li></a>
+        <a class="nope" href="indexmain.html"><li class="ac"></li></a>
+        <li class="li5"><a class="a22" href="other/setting.html"></a></li>
+        <li id="content" title="Available"></li>
+        
+   
+       
+
+        </ul>
+
+    </div></div>
+
+   
+   
+    <h1 class="mainh1"><a class="a12" href="#h9">E-Learning Platform For Students<span class=".mainh1"></span></a></h1>
+
+    <center><div class="fill">
+        
+       <div class="bar"> <input type="text" placeholder="Type Anything Here"><img class="barimg" src="img/search_FILL0_wght400_GRAD0_opsz48 (1).png"></div>
+<a target="_blank" href="https://www.google.com/search?q=Date+Of+Today&sxsrf=ALiCzsZ3Hd_JbWwdZ8eWJa-r6VwBup_RPQ%3A1658025298999&ei=UnXTYojLPIqA3LUP04uN0Ao&ved=0ahUKEwiIvObH8f74AhUKALcAHdNFA6oQ4dUDCA4&uact=5&oq=Date+Of+Today&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEJECMgoIABCABBCHAhAUMgUIABCABDIFCAAQkQIyBQgAEIAEMgUIABCABDIFCAAQkQIyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgjEOoCECc6BAgAEEM6CggAELEDEIMBEEM6BwgAELEDEEM6CAgAELEDEIMBOgsIABCABBCxAxCDAToOCC4QgAQQsQMQgwEQ1AI6BQguEIAESgQIQRgASgQIRhgAUABYwiNgxStoAXABeACAAYkIiAHVHpIBCTAuOC42LTIuMZgBAKABAbABCsABAQ&sclient=gws-wiz"><h1 title="Date Of Today" class="dateshow"></h1></a>
+
+<body onload="startTime()">
+
+    
+    
+    <a target="_blank" href="https://www.google.com/search?q=Time+Now&oq=Time+Now&aqs=chrome..69i57j0i271l2.2840j0j7&sourceid=chrome&ie=UTF-8"><div id="txt"></div></a>
+
+
+       
+       
+       
+    </div></center>
+
+    <h1 class="mainh1">What's Your Grade ?</h1>
+<center><div class="backdiv">
+    <h9 id="h9"></h9>
+    
+    <div class="grades">
+        <div class="gradeall grd1 g1"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade1.html">1</a></a></h1></div>
+        <div class="gradeall grd2 g2"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade2.html">2</a></h1></div>
+        <div class="gradeall grd3 g3"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade3.html">3</a></h1></div>
+        <div class="gradeall grd5 g4"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade4.html">4</a></h1></div></div>
+        <div class="grades">
+        <div class="gradeall grd6 g5"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade5.html">5</a></h1></div>
+        <div class="gradeall grd7 g6"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade6.html">6</a></h1></div>
+        <div class="gradeall grd8 g7"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade7.html">7</a></h1></div>
+        <div class="gradeall grd9 g8"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade8.html">8</a></h1></div></div>
+        <div class="grades s">
+        <div class="gradeall grd10 g9"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade9.html">9</</h1></div>
+        <div class="gradeall grd11 g10"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade10.html">10</a></h1></div>
+        <div class="gradeall grd12 g11"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade11.html">11</a></h1></div>
+        <div class="gradeall grd13 g12"><h1 class="h1g"><span class="spnh11"></span><a class="aaa" href="grade12.html">12</a></h1></div>
+    </div>
+    </div></center>
+    
+    
+    <center><h2 class="h22">Join Our NewsLetter For Get Notified.</h2></center>
+        
+       <center> <div class="tri">
+            
+     <div class="tri1"><a href="other/courses.html" target="_blank"><h1>Online <br>Courses</h1></a></div>
+     <div class="tri2"><a href="other/soft.html" target="_blank"><h1>Papers</h1></a></div>
+     <div class="tri3"><a href="calculator.html" target="_blank"><h1>EduCloud<br>Calculator</h1></a></div>
+
+
+
+    </div></center>
+    <h3 class="newsh3">Top Stories On Youtube</h3>
+    <div class="fillyt"><iframe width="727" height="409" src="https://www.youtube.com/embed/6Af6b_wyiwI" title="Bill Gates: The next outbreak? We’re not ready | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    <h3 class="newsh3">More Educational Sources</h3>
+<div class="news">
+       <div class="new news1">
+        <div class="imgh"></div>
+        <h1 class="tag"><a class="tag" target="_blank" href="https://www.youtube.com/c/ChannelNIE/">YouTube | NIE◥</a></h1>
+        <p class="infop" title="From www.Wikipedia.org"> The NIE Is The Official Youtube Space For Sri Lankan Students' Learning</p>
+    </div>
+    <div class="new news2">
+        <div class="imgh"></div>
+        <h1 class="tag e"><a target="_blank" class="tag e" href="https://www.e-thaksalawa.moe.gov.lk/">E-Thaksalawa◥</a></h1>
+        <p class="infop"title="From www.Wikipedia.org">Sri Lankan Largest MOOC platform for General Education</p>
+    </div>
+    <div class="new news3">
+        <div class="imgh"></div>
+        <h1 class="tag ms"><a target="_blank" class="tag ms" href="https://www.nie.lk">National<br>Insitution<br>Of Edu◥</a></h1><p class="infop"title="From www.Wikipedia.org">It's never too late to learn something new.</p></div>
+        
+    </div>
+   
+</div>
+</div>
+
+<a href="#topt"><button class="totop">↑</button></a>
+<div class="fdiv"><footer>
+   <div class="footer1"> <img class="img0" src="img/check_circle_FILL0_wght400_GRAD0_opsz48 (1).png" width="30px">
+    <h4>EduCloud</h4></div>
+
+    <center><h5>An Online Educational Devoloped Platform.</h5></center>
+  
+
+    <div class="footernav">
+        
+        <li class="li2">Educloud</li>
+        <li class="l13">Register</li>
+        <a class="a22" href="other/setting.html"> <img class="seting" src="img/settings_FILL0_wght400_GRAD0_opsz48.png" width="30px"></a>
+        <li class="li4">Newsletter</li>
+        <a target="_target" href="https://www.dpeducation.lk"><li class="li2" background="transparent"><img src="img/logo.png" width="20px" background="transparent"></li></a>
+        <li class="li5"><a class="a22" href="other/setting.html">ENG</a></li></div>
+        
+
+</footer></div>
+    <script src="react.js"></script>
+    <script>
+        function startTime() {
+    const today = new Date();
+    let h = today.getHours();
+    let m = today.getMinutes();
+    let s = today.getSeconds();
+    m = checkTime(m);
+    s = checkTime(s);
+    document.getElementById('txt').innerHTML =  h + " • " + m + " • " + s;
+    setTimeout(startTime, 1000);
+  }
+  
+  function checkTime(i) {
+    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    return i;
+  }
+  document.querySelector('#txt').style.color = localStorage.getItem('bgcolor');
+    </script>
+</body>
+</html>
